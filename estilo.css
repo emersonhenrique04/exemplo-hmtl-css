@@ -78,22 +78,22 @@ li a:hover{
     margin: auto 15px;
 }
 
-.final:nth-child(A){
-    background-color: #3548F3
+.final:nth-child(1){
+    background-color: #3548F3;
 }
 
-.final:nth-child(B){
-    background-color: #3548F3
+.final:nth-child(2){
+    background-color: #3548F3;
 }
 
-.final:nth-child(C){
-    background-color: #3548F3
+.final:nth-child(3){
+    background-color: #3548F3;
 }
 
-.final:nth-child(D){
-    background-color: #3548F3
+.final:nth-child(4){
+    background-color: #3548F3;
 }
 
-.final:nth-child(E){
-    background-color: #3548F3
+.final:nth-child(5){
+    background-color: red;
 }
